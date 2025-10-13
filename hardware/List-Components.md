@@ -4,7 +4,7 @@
 
 - **Arduino UNO**
 
-  ![Arduino UNO](hardware/img/ArduinoUNO.png)
+  <img src="hardware/img/ArduinoUNO.png" width="300">
 
   - [Lien fournisseur](https://www.galaxus.ch/fr/s1/product/arduino-uno-rev3-carte-de-developpement-kit-5764177)
   - Dimensions : …
@@ -12,7 +12,7 @@
         
 - **Raspberry Pi (3B+/4)**
 
-  ![Raspberry Pi](hardware/img/RaspberryPI4.png)
+  <img src="hardware/img/RaspberryPI4.png" width="300">
 
   - [Lien fournisseur](https://www.galaxus.ch/fr/s1/product/raspberry-pi-3-model-b-carte-de-developpement-kit-8024081)
   - Dimensions : …
@@ -24,7 +24,7 @@
 
 - **Clavier numérique métallique (digicode)**
 
-  ![Clavier numérique](hardware/img/digicode.png)
+  <img src="hardware/img/digicode.png" width="300">
 
   - [Lien fournisseur](https://de.aliexpress.com/item/1005002655939418.html)
   - Dimensions : …
@@ -32,7 +32,7 @@
 
 - **Écran digital (LCD ou OLED)**
 
-  ![Écran LCD](hardware/img/LcdScreen.png)
+  <img src="hardware/img/LcdScreen.png" width="400">
 
   - [Lien fournisseur](https://de.aliexpress.com/item/1005006086057327.html)
   - Dimensions : …
@@ -40,7 +40,7 @@
 
 - **Boutons lumineux métalliques (R, B, J, V)**
 
-  ![Boutons lumineux](hardware/img/BoutonRetroeclairer.png)
+  <img src="hardware/img/BoutonRetroeclairer.png" width="300">
 
   - [Lien fournisseur](https://de.aliexpress.com/item/1005009072059590.html)
   - Dimensions : …
@@ -48,7 +48,7 @@
 
 - **LEDs RGB (10 unités)**
 
-  ![LED RGB](hardware/img/led_rgb.png)
+  <img src="hardware/img/led_rgb.png" width="300">
 
   - [Lien fournisseur](https://de.aliexpress.com/)
   - Dimensions : …
@@ -60,7 +60,7 @@
 
 - **Électro-aimant 12 V NC (Normally Closed)**
 
-  ![Électro-aimant](hardware/img/electroaimant.png)
+  <img src="hardware/img/electroaimant.png" width="300">
 
   - [Lien fournisseur](https://de.aliexpress.com/)
   - Dimensions : …
@@ -72,7 +72,7 @@
 
 - **Module ampli classe D (ex : PAM8403, 5–10 W)**
 
-  ![Ampli classe D](hardware/img/ampli.png)
+  <img src="hardware/img/ampli.png" width="300">
 
   - [Lien fournisseur](https://de.aliexpress.com/)
   - Dimensions : …
@@ -80,7 +80,7 @@
 
 - **Haut-parleur 8 Ω / 5–10 W**
 
-  ![Haut-parleur](hardware/img/haut_parleur.png)
+  <img src="hardware/img/haut_parleur.png" width="300">
 
   - [Lien fournisseur](https://de.aliexpress.com/)
   - Dimensions : …
@@ -92,14 +92,14 @@
 
 - **Alim principale 12 V DC (5 A)**
 
-  ![Alimentation](hardware/img/alimentation.png)
+  <img src="hardware/img/alimentation.png" width="300">
 
   - [Lien fournisseur](https://de.aliexpress.com/)
   - Notes : alimente électro-aimant et, via convertisseur, le reste.
 
 - **Convertisseur DC-DC (12 V → 5 V 3 A)**
 
-  ![Convertisseur DC-DC](hardware/img/convertisseur.png)
+  <img src="hardware/img/convertisseur.png" width="300">
 
   - [Lien fournisseur](https://de.aliexpress.com/)
   - Notes : pour Raspberry Pi et Arduino.
