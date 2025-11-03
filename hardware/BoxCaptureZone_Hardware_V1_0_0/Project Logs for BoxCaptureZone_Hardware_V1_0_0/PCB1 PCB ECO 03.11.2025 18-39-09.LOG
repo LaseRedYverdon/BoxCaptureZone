@@ -1,0 +1,11 @@
+Added Component: Designator=J3(TE_282837-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282837-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V_Rpi Pin=J3-1
+Added Pin To Net: NetName=bouton_rouge Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component J3 282837-3
