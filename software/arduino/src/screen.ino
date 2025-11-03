@@ -1,6 +1,7 @@
 #include <Arduino.h>
 #include <LiquidCrystal_I2C.h>
-extern LiquidCrystal_I2C lcd;
+
+LiquidCrystal_I2C lcd(0x27, 16, 2); // adresse I2C et dimensions
 
 void initLCD() {
     lcd.init();

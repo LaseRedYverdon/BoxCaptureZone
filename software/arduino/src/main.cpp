@@ -45,9 +45,11 @@
 #include "digicode.ino"       // lecture code à 4 chiffres
 #include "lock.ino"           // contrôle électro-aimant
 #include "buttons.ino"        // boutons équipe
-#include "leds.ino"  // LEDs RJB via 74HC595
+#include "leds.ino"           // LEDs via 74HC595
 #include "comm.ino"           // communication série avec Pi
 #include "screen.ino"
+
+const int secretCode = 1060;
 
 void setup() {
     Serial.begin(9600);
@@ -69,24 +71,27 @@ void setup() {
 
 void loop() {
     // 1) Lecture du digicode
-    if (readDigicode()) { // renvoie true si code correct
-        unlockChest();     // ouvre le coffre
-        lcdShowMessage("Access Granted", "Open box & press");
+    int userCode = readDigicode(); // renvoie le code entré par le joueur
+
+    if (userCode == secretCode) {
+        // Déverrouillage automatique non bloquant
+        openBox(true); // démarre le déverrouillage et lance le timer pour verrouillage automatique
+        lcdShowMessage("Access Granted", "Open box");
         commSend("ACCESS;GRANTED");
     }
 
-    // 2) Vérifie si verrou doit se refermer automatiquement
-    lockHandling(); // ferme si délai écoulé
+    // 2) Gestion non bloquante du coffre
+    // lockHandling() gère automatiquement la remise en verrou après délai
+    lockHandling(); // à créer ou adapter si openBox()/closeBox() gèrent déjà le timer
 
     // 3) Lecture et traitement des boutons couleur
-    pollButtons();  // détecte appui simple ou long
-    //updateTeamCapture(); // met à jour les temps de capture par équipe
+    pollButtons(); // gère short press et long press
 
-    // 4) Met à jour LEDs bargraph selon capture équipe
-   // setBargraph(teamCounts);
+    // 4) Mise à jour LEDs bargraph selon capture équipe
+    // setBargraph(teamCounts); // si implémenté
 
     // 5) Envoi des infos au Raspberry Pi
-    //sendTeamStatus(); // messages type "TEAM;R;3" ou "TEAM;B;5"
+    // sendTeamStatus(); // messages type "TEAM;R;3"
 
     delay(10); // léger délai pour ne pas saturer le Nano
 }

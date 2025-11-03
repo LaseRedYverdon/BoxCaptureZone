@@ -22,11 +22,13 @@ bool readDigicode() {
             codeEntre = "";
         } else if (caractere == '*') {
             codeEntre = "";
+            codeValide = false; 
         } else if (isDigit(caractere)) {
             codeEntre += caractere;
         }
     }
-    return true;
+    
+    return codeValide;
 }
 
 bool boxIsOpen() {
