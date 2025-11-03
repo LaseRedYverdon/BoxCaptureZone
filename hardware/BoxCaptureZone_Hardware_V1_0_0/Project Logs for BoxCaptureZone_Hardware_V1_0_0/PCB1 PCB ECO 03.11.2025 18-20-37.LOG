@@ -1,0 +1,961 @@
+Removed Pin From Net: NetName=DS Pin=MD?-14
+Removed Pin From Net: NetName=LATCH Pin=MD?-15
+Removed Pin From Net: NetName=SHIFT Pin=MD?-16
+Added Component: Designator=C?(CAPC2012X08M)
+Add component (AddParameter): Name = "Category"; Value = "Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "C2012X7R1H104K085AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-747862"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Condensateurs ceramique"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FAB.0805_C 100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoeff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC2012X08M)
+Add component (AddParameter): Name = "Category"; Value = "Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "C2012X7R1H104K085AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-747862"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Condensateurs ceramique"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FAB.0805_C 100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoeff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC2012X08M)
+Add component (AddParameter): Name = "Category"; Value = "Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "C2012X7R1H104K085AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-747862"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Condensateurs ceramique"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FAB.0805_C 100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoeff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC2012X08M)
+Add component (AddParameter): Name = "Category"; Value = "Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "C2012X7R1H104K085AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-747862"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Condensateurs ceramique"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FAB.0805_C 100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoeff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component: Footprint Not Found TE_282837-3
+Add component: Footprint Not Found TE_282837-3
+Add component: Footprint Not Found TE_282837-3
+Added Component: Designator=J?(CONN4_500000G_AMP)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol ICC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "YO0421500000G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add component: Footprint Not Found TE_282837-3
+Add component: Footprint Not Found TE_282837-3
+Added Component: Designator=R?(RESC1608X06M)
+Add component (AddParameter): Name = "Category"; Value = "Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "RC0603FR-07270RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-884995"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Resistances couche epaisse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FAB.0603_R 270R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoeff"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55°C to 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "270"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X06M)
+Add component (AddParameter): Name = "Category"; Value = "Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "RC0603FR-07220RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-315954"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Resistances couche epaisse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FAB.0603_R 220R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoeff"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55°C to 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X06M)
+Add component (AddParameter): Name = "Category"; Value = "Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "RC0603FR-07180RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-646912"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Resistances couche epaisse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FAB.0603_R 180R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoeff"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55°C to 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "180"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X06M)
+Add component (AddParameter): Name = "Category"; Value = "Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "RC0603FR-07270RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-884995"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Resistances couche epaisse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FAB.0603_R 270R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoeff"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55°C to 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "270"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X06M)
+Add component (AddParameter): Name = "Category"; Value = "Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "RC0603FR-07220RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-315954"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Resistances couche epaisse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FAB.0603_R 220R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoeff"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55°C to 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X06M)
+Add component (AddParameter): Name = "Category"; Value = "Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "RC0603FR-07180RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-646912"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Resistances couche epaisse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FAB.0603_R 180R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoeff"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55°C to 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "180"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012X06M)
+Add component (AddParameter): Name = "Category"; Value = "Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "RC0805FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-903408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Resistances couche epaisse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FAB.0805_R 100k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoeff"; Value = "±200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55°C to 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X06M)
+Add component (AddParameter): Name = "Category"; Value = "Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "RC0603FR-07180RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-646912"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Resistances couche epaisse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FAB.0603_R 180R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoeff"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55°C to 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "180"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X06M)
+Add component (AddParameter): Name = "Category"; Value = "Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "RC0603FR-07330RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-554037"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Resistances couche epaisse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FAB.0603_R 330R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoeff"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55°C to 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012X06M)
+Add component (AddParameter): Name = "Category"; Value = "Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "RC0805FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-903408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Resistances couche epaisse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FAB.0805_R 100k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoeff"; Value = "±200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55°C to 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012X06M)
+Add component (AddParameter): Name = "Category"; Value = "Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "RC0805FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-903408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Resistances couche epaisse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FAB.0805_R 100k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoeff"; Value = "±200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55°C to 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012X06M)
+Add component (AddParameter): Name = "Category"; Value = "Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "RC0805FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-903408"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Resistances couche epaisse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FAB.0805_R 100k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoeff"; Value = "±200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55°C to 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X06M)
+Add component (AddParameter): Name = "Category"; Value = "Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "RC0603FR-07330RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-554037"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Resistances couche epaisse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FAB.0603_R 330R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoeff"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55°C to 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X06M)
+Add component (AddParameter): Name = "Category"; Value = "Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "RC0603FR-07220RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-315954"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Resistances couche epaisse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FAB.0603_R 220R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoeff"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55°C to 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x02-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-573903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MAG.283.897"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x02-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-573903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MAG.283.897"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x02-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-573903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MAG.283.897"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x02-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-573903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MAG.283.897"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x02-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-573903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MAG.283.897"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x02-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-573903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MAG.283.897"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x02-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-573903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MAG.283.897"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x02-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-573903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MAG.283.897"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x02-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-573903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MAG.283.897"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x02-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-573903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MAG.283.897"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=5V_Rpi Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=5V_Rpi Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=DS Pin=MD?-11
+Added Pin To Net: NetName=LATCH Pin=MD?-12
+Added Pin To Net: NetName=SHIFT Pin=MD?-13
+Added Pin To Net: NetName=5V_Rpi Pin=R?-2
+Added Pin To Net: NetName=5V_Rpi Pin=R?-2
+Added Pin To Net: NetName=5V_Rpi Pin=R?-2
+Added Pin To Net: NetName=5V_Rpi Pin=R?-2
+Added Pin To Net: NetName=3V3_Rpi Pin=X?-1
+Added Pin To Net: NetName=3V3_Rpi Pin=X?-1
+Added Pin To Net: NetName=5V_Rpi Pin=X?-1
+Added Pin To Net: NetName=5V_Rpi Pin=X?-1
+Added Pin To Net: NetName=5V_Rpi Pin=X?-1
+Added Pin To Net: NetName=5V_Rpi Pin=X?-1
+Added Pin To Net: NetName=5V_Rpi Pin=X?-1
+Added Pin To Net: NetName=5V_Rpi Pin=X?-1
+Added Pin To Net: NetName=5V_Rpi Pin=X?-1
+Added Pin To Net: NetName=5V_Rpi Pin=X?-1
+Added Pin To Net: NetName=5V_Rpi Pin=X?-1
+Added Pin To Net: NetName=5V_Rpi Pin=X?-1
+Added Pin To Net: NetName=5V_Rpi Pin=X?-1
+Added Pin To Net: NetName=5V_Rpi Pin=X?-1
+Added Pin To Net: NetName=bleu_1 Pin=R?-1
+Added Pin To Net: NetName=bleu_1 Pin=U?-5
+Added Net: Name=bleu_1
+Added Pin To Net: NetName=bleu_2 Pin=R?-1
+Added Pin To Net: NetName=bleu_2 Pin=U?-6
+Added Net: Name=bleu_2
+Added Pin To Net: NetName=bleu_3 Pin=R?-1
+Added Pin To Net: NetName=bleu_3 Pin=U?-7
+Added Net: Name=bleu_3
+Added Pin To Net: NetName=bouton_bleu Pin=C?-2
+Added Pin To Net: NetName=bouton_bleu Pin=J?-2
+Added Pin To Net: NetName=bouton_bleu Pin=MD?-7
+Added Pin To Net: NetName=bouton_bleu Pin=R?-1
+Added Net: Name=bouton_bleu
+Added Pin To Net: NetName=bouton_jaune Pin=C?-2
+Added Pin To Net: NetName=bouton_jaune Pin=J?-2
+Added Pin To Net: NetName=bouton_jaune Pin=MD?-8
+Added Pin To Net: NetName=bouton_jaune Pin=R?-1
+Added Net: Name=bouton_jaune
+Added Pin To Net: NetName=bouton_rouge Pin=C?-2
+Added Pin To Net: NetName=bouton_rouge Pin=J?-2
+Added Pin To Net: NetName=bouton_rouge Pin=MD?-5
+Added Pin To Net: NetName=bouton_rouge Pin=R?-1
+Added Net: Name=bouton_rouge
+Added Pin To Net: NetName=bouton_vert Pin=C?-2
+Added Pin To Net: NetName=bouton_vert Pin=J?-2
+Added Pin To Net: NetName=bouton_vert Pin=MD?-6
+Added Pin To Net: NetName=bouton_vert Pin=R?-1
+Added Net: Name=bouton_vert
+Added Pin To Net: NetName=commande_relais Pin=J?-3
+Added Pin To Net: NetName=commande_relais Pin=MD?-19
+Added Net: Name=commande_relais
+Added Pin To Net: NetName=jaune_1 Pin=R?-1
+Added Pin To Net: NetName=jaune_1 Pin=U?-15
+Added Net: Name=jaune_1
+Added Pin To Net: NetName=jaune_2 Pin=R?-1
+Added Pin To Net: NetName=jaune_2 Pin=U?-1
+Added Net: Name=jaune_2
+Added Pin To Net: NetName=NetMD?_9 Pin=MD?-9
+Added Pin To Net: NetName=NetMD?_9 Pin=X?-1
+Added Net: Name=NetMD?_9
+Added Pin To Net: NetName=NetMD?_10 Pin=MD?-10
+Added Pin To Net: NetName=NetMD?_10 Pin=X?-1
+Added Net: Name=NetMD?_10
+Added Pin To Net: NetName=NetMD?_14 Pin=MD?-14
+Added Pin To Net: NetName=NetMD?_14 Pin=X?-1
+Added Net: Name=NetMD?_14
+Added Pin To Net: NetName=NetMD?_15 Pin=MD?-15
+Added Pin To Net: NetName=NetMD?_15 Pin=X?-1
+Added Net: Name=NetMD?_15
+Added Pin To Net: NetName=NetMD?_16 Pin=MD?-16
+Added Pin To Net: NetName=NetMD?_16 Pin=X?-1
+Added Net: Name=NetMD?_16
+Added Pin To Net: NetName=NetMD?_17 Pin=MD?-17
+Added Pin To Net: NetName=NetMD?_17 Pin=X?-1
+Added Net: Name=NetMD?_17
+Added Pin To Net: NetName=NetMD?_20 Pin=MD?-20
+Added Pin To Net: NetName=NetMD?_20 Pin=X?-1
+Added Net: Name=NetMD?_20
+Added Pin To Net: NetName=NetMD?_21 Pin=MD?-21
+Added Pin To Net: NetName=NetMD?_21 Pin=X?-1
+Added Net: Name=NetMD?_21
+Added Pin To Net: NetName=NetMD?_22 Pin=MD?-22
+Added Pin To Net: NetName=NetMD?_22 Pin=X?-1
+Added Net: Name=NetMD?_22
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=X?-2
+Added Net: Name=NetR?_2
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Pin To Net: NetName=NetU?_2 Pin=U?-2
+Added Pin To Net: NetName=NetU?_2 Pin=X?-1
+Added Net: Name=NetU?_2
+Added Pin To Net: NetName=NetU?_3 Pin=U?-3
+Added Pin To Net: NetName=NetU?_3 Pin=X?-1
+Added Net: Name=NetU?_3
+Added Pin To Net: NetName=NetU?_4 Pin=U?-4
+Added Pin To Net: NetName=NetU?_4 Pin=X?-1
+Added Net: Name=NetU?_4
+Added Pin To Net: NetName=NetU?_5 Pin=U?-5
+Added Pin To Net: NetName=NetU?_5 Pin=X?-1
+Added Net: Name=NetU?_5
+Added Pin To Net: NetName=NetU?_6 Pin=U?-6
+Added Pin To Net: NetName=NetU?_6 Pin=X?-1
+Added Net: Name=NetU?_6
+Added Pin To Net: NetName=NetU?_7 Pin=U?-7
+Added Pin To Net: NetName=NetU?_7 Pin=X?-1
+Added Net: Name=NetU?_7
+Added Pin To Net: NetName=rouge_1 Pin=R?-1
+Added Pin To Net: NetName=rouge_1 Pin=U?-15
+Added Net: Name=rouge_1
+Added Pin To Net: NetName=rouge_2 Pin=R?-1
+Added Pin To Net: NetName=rouge_2 Pin=U?-1
+Added Net: Name=rouge_2
+Added Pin To Net: NetName=RX_Rpi Pin=MD?-1
+Added Pin To Net: NetName=RX_Rpi Pin=U?-10
+Added Pin To Net: NetName=RX_Rpi Pin=X?-1
+Added Pin To Net: NetName=RX_Rpi Pin=X?-1
+Added Net: Name=RX_Rpi
+Added Pin To Net: NetName=SCL Pin=J?-4
+Added Pin To Net: NetName=SCL Pin=MD?-24
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=J?-3
+Added Pin To Net: NetName=SDA Pin=MD?-23
+Added Net: Name=SDA
+Added Pin To Net: NetName=TX_Rpi Pin=MD?-2
+Added Pin To Net: NetName=TX_Rpi Pin=U?-8
+Added Pin To Net: NetName=TX_Rpi Pin=X?-1
+Added Pin To Net: NetName=TX_Rpi Pin=X?-1
+Added Net: Name=TX_Rpi
+Added Pin To Net: NetName=vert_1 Pin=R?-1
+Added Pin To Net: NetName=vert_1 Pin=U?-2
+Added Net: Name=vert_1
+Added Pin To Net: NetName=vert_2 Pin=R?-1
+Added Pin To Net: NetName=vert_2 Pin=U?-3
+Added Net: Name=vert_2
+Added Pin To Net: NetName=vert_3 Pin=R?-1
+Added Pin To Net: NetName=vert_3 Pin=U?-4
+Added Net: Name=vert_3
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component C? 100nF
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component C? 100nF
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component C? 100nF
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component C? 100nF
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component C? 100nF
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component C? 100nF
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component C? 100nF
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component J? 282837-3
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component J? 282837-3
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component J? 282837-3
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component J? YO0421500000G
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component J? 282837-3
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component J? 282837-3
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R? 270R
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R? 220R
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R? 180R
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R? 270R
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R? 220R
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R? 180R
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R? 100k
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R? 100k
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R? 330R
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R? 100k
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R? 180R
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R? 330R
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R? 220R
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R? 100k
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component U? MC74HC595ADG
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component U? SC0195(9) Raspberry Pi 4
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? LED bleu
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? LED bleu
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? LED vert 
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? LED bleu
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? LED jaune
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? LED rouge
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? LED jaune
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? LED vert 
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? LED vert 
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? LED rouge
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? 2.54

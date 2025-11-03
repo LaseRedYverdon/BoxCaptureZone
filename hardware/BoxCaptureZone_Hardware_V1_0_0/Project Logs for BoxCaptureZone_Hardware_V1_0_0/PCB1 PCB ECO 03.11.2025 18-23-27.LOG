@@ -1,0 +1,272 @@
+Removed Pin From Net: NetName=bouton_vert Pin=J?-2
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=MD? NewDesignator=MD1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=S? NewDesignator=S1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Change Component Designator: OldDesignator=X? NewDesignator=X2
+Change Component Designator: OldDesignator=X? NewDesignator=X3
+Change Component Designator: OldDesignator=X? NewDesignator=X4
+Change Component Designator: OldDesignator=X? NewDesignator=X5
+Change Component Designator: OldDesignator=X? NewDesignator=X6
+Change Component Designator: OldDesignator=X? NewDesignator=X7
+Change Component Designator: OldDesignator=X? NewDesignator=X8
+Change Component Designator: OldDesignator=X? NewDesignator=X9
+Change Component Designator: OldDesignator=X? NewDesignator=X10
+Change Component Designator: OldDesignator=X? NewDesignator=X11
+Change Component Designator: OldDesignator=X? NewDesignator=X12
+Change Component Designator: OldDesignator=X? NewDesignator=X13
+Change Component Designator: OldDesignator=X? NewDesignator=X14
+Change Component Designator: OldDesignator=X? NewDesignator=X15
+Change Component Designator: OldDesignator=X? NewDesignator=X16
+Change Component Designator: OldDesignator=X? NewDesignator=X17
+Change Component Designator: OldDesignator=X? NewDesignator=X18
+Change Component Designator: OldDesignator=X? NewDesignator=X19
+Change Component Designator: OldDesignator=X? NewDesignator=X20
+Change Component Designator: OldDesignator=X? NewDesignator=X25
+Change Component Designator: OldDesignator=X? NewDesignator=X26
+Change Component Designator: OldDesignator=X? NewDesignator=X27
+Change Component Designator: OldDesignator=X? NewDesignator=X28
+Change Component Designator: OldDesignator=X? NewDesignator=X29
+Change Component Designator: OldDesignator=X? NewDesignator=X30
+Change Component Designator: OldDesignator=X? NewDesignator=X31
+Change Component Designator: OldDesignator=X? NewDesignator=X32
+Change Component Designator: OldDesignator=X? NewDesignator=X33
+Change Component Designator: OldDesignator=X? NewDesignator=X34
+Change Component Designator: OldDesignator=X? NewDesignator=X35
+Change Component Designator: OldDesignator=X? NewDesignator=X38
+Change Component Designator: OldDesignator=X? NewDesignator=X39
+Change Component Designator: OldDesignator=X? NewDesignator=X40
+Add component: Footprint Not Found TE_282837-3
+Add component: Footprint Not Found TE_282837-3
+Add component: Footprint Not Found TE_282837-3
+Add component: Footprint Not Found TE_282837-3
+Add component: Footprint Not Found TE_282837-3
+Added Component: Designator=X21(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X22(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X23(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X24(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X36(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=X37(PIN-1x01-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-585694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V_Rpi Pin=J1-2
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J4-1
+Add Pin To Net: Unknown Pin: Pin J4-2
+Add Pin To Net: Unknown Pin: Pin J4-3
+Add Pin To Net: Unknown Pin: Pin J5-1
+Add Pin To Net: Unknown Pin: Pin J5-2
+Add Pin To Net: Unknown Pin: Pin J5-3
+Add Pin To Net: Unknown Pin: Pin J6-1
+Add Pin To Net: Unknown Pin: Pin J6-2
+Add Pin To Net: Unknown Pin: Pin J6-3
+Added Pin To Net: NetName=GND Pin=X21-1
+Added Pin To Net: NetName=GND Pin=X22-1
+Added Pin To Net: NetName=GND Pin=X23-1
+Added Pin To Net: NetName=GND Pin=X24-1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC8_2
+Change Net Name : Old Net Name=NetMD?_9 New Net Name=NetMD1_9
+Change Net Name : Old Net Name=NetMD?_10 New Net Name=NetMD1_10
+Change Net Name : Old Net Name=NetMD?_14 New Net Name=NetMD1_14
+Change Net Name : Old Net Name=NetMD?_15 New Net Name=NetMD1_15
+Change Net Name : Old Net Name=NetMD?_16 New Net Name=NetMD1_16
+Change Net Name : Old Net Name=NetMD?_17 New Net Name=NetMD1_17
+Change Net Name : Old Net Name=NetMD?_20 New Net Name=NetMD1_20
+Change Net Name : Old Net Name=NetMD?_21 New Net Name=NetMD1_21
+Change Net Name : Old Net Name=NetMD?_22 New Net Name=NetMD1_22
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR1_2
+Change Net Name : Old Net Name=NetU?_2 New Net Name=NetU3_2
+Change Net Name : Old Net Name=NetU?_3 New Net Name=NetU3_3
+Change Net Name : Old Net Name=NetU?_4 New Net Name=NetU3_4
+Change Net Name : Old Net Name=NetU?_5 New Net Name=NetU3_5
+Change Net Name : Old Net Name=NetU?_6 New Net Name=NetU3_6
+Change Net Name : Old Net Name=NetU?_7 New Net Name=NetU3_7
+Added Pin To Net: NetName=NetMD1_25 Pin=MD1-25
+Added Pin To Net: NetName=NetMD1_25 Pin=X37-1
+Added Net: Name=NetMD1_25
+Added Pin To Net: NetName=NetMD1_26 Pin=MD1-26
+Added Pin To Net: NetName=NetMD1_26 Pin=X36-1
+Added Net: Name=NetMD1_26
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=X6-2
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=X7-2
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=X8-2
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=X15-2
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=X16-2
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=X17-2
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=X18-2
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=X19-2
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=X20-2
+Added Net: Name=NetR10_2
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component C1 100nF
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component C2 100nF
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component C3 100nF
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component C5 100nF
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component C6 100nF
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component C7 100nF
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component C8 100nF
+Add Class Member: Failed to add class member : Component J2 282837-3
+Add Class Member: Failed to add class member : Component J3 282837-3
+Add Class Member: Failed to add class member : Component J4 282837-3
+Add Class Member: Failed to add class member : Component J5 282837-3
+Add Class Member: Failed to add class member : Component J6 282837-3
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R1 220R
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R2 330R
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R3 180R
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R4 220R
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R5 180R
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R6 220R
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R7 180R
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R8 270R
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R9 330R
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R10 270R
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R11 100k
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R13 100k
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R14 100k
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component R15 100k
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component U2 SC0195(9) Raspberry Pi 4
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component U3 MC74HC595ADG
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X2 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X3 LED vert 
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X4 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X5 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X6 LED rouge
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X7 LED bleu
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X8 LED vert 
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X9 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X10 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X11 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X12 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X13 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X14 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X15 LED bleu
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X16 LED vert 
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X17 LED bleu
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X18 LED jaune
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X19 LED rouge
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X20 LED jaune
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X21 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X22 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X23 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X24 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X25 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X26 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X27 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X28 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X29 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X30 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X31 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X32 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X33 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X34 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X35 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X36 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X37 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X38 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X39 2.54
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X40 2.54

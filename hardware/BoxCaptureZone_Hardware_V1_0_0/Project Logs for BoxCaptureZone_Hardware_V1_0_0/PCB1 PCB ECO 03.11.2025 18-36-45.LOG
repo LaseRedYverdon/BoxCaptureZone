@@ -1,0 +1,26 @@
+Add component: Footprint Not Found TE_282837-3
+Add component: Footprint Not Found TE_282837-3
+Added Component: Designator=J5(TE_282837-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282837-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found TE_282837-3
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Added Pin To Net: NetName=5V_Rpi Pin=J5-1
+Added Pin To Net: NetName=bouton_jaune Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J5-3
+Add Pin To Net: Unknown Pin: Pin J6-1
+Add Pin To Net: Unknown Pin: Pin J6-2
+Add Pin To Net: Unknown Pin: Pin J6-3
+Add Class Member: Failed to add class member : Component J2 282837-3
+Add Class Member: Failed to add class member : Component J3 282837-3
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component J5 282837-3
+Add Class Member: Failed to add class member : Component J6 282837-3
