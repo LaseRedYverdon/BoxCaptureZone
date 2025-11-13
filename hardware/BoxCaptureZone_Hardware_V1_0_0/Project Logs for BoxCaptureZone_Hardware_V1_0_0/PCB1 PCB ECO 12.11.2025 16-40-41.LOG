@@ -1,0 +1,32 @@
+Removed Member From Class: ClassName=ArduinoUno_Rpi Member=X31
+Change Component Comment : Designator=X3 Old Comment=LED vert  New Comment=LED vert
+Change Component Comment : Designator=X8 Old Comment=LED vert  New Comment=LED vert
+Change Component Comment : Designator=X16 Old Comment=LED vert  New Comment=LED vert
+Added Component: Designator=S?(BOOSTER12V)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TS02-66-70-BK-100-LCR-D/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TS02-66-70-BK-100-LCR-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TS02-66-70-BK-100-LCR-D/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X?(PIN-1x04-2.54)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61300411121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-579072"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MAG.283.897"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V_Rpi Pin=X?-1
+Added Pin To Net: NetName=GND Pin=X?-4
+Added Pin To Net: NetName=commande_bandeLED Pin=MD1-9
+Added Pin To Net: NetName=commande_bandeLED Pin=X?-2
+Added Net: Name=commande_bandeLED
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component S? Relais
+Added Member To Class: ClassName=ArduinoUno_Rpi Member=Component X? Bande_LED
